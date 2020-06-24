@@ -1,10 +1,13 @@
 # TelecomAcademy
 Curs C++ Fundamentals
 Sa se construiasca o aplicatie de gestiune a unei biblioteci.
+
 O biblioteca poate contine mai multe carti. Despre fiecare carte se vor cunoaste cel putin
 urmatoarele informatii: cod identificare (int), autor(string), nume(string), an publicatie(int).
 Obs: Puteti adauga si alte informatii daca sunteti de parare ca este necesar.
+
 Cartile pot fi imprumutate de catre persoane. O persoana este identificata prin nume(string)
+
 Aplicatia va trebui sa permita urmatoarele operatii:
 ● A - Adaugarea unei carti in biblioteca - 15p
     ○ Se citesc de la tastatura detaliile cartii (id, autor, nume, an publicatie)
