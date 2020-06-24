@@ -21,7 +21,7 @@ Aplicatia va trebui sa permita urmatoarele operatii:
 ● P - Listarea informatiilor despre o persoana (Ce carti a imprumutat) - 15p
     ○ Se citeste de la tastatura numele persoanei
   
-Obs: Puteti presupune ca o carte este imprumutata de maxim o persoana
+Obs: Puteti presupune ca o carte este imprumutata de maxim o persoan
 
 Cerinte suplimentare
 ● Citirea de la tastatura a dimensiunii bibliotecii (numarul maxim de carti suportate) - 10p
